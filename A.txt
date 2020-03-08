@@ -6,4 +6,4 @@ This is a new file!
 
 Add a new tag
 
-Add the 2nd tag
+Add a third tag
